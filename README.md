@@ -1,10 +1,10 @@
 # Project Title
 
-Node CRUD Api 
+Node CRUD API
 
 ## Description
 
-This is a CRUD API assignment of Baxture Technology
+This is a CRUD API assignment for Baxture Technology
 
 ## Getting Started
 
@@ -21,28 +21,20 @@ This is a CRUD API assignment of Baxture Technology
 * Add --> PORT=3000
 
 ### Installing
-* npm i
-
+```
+npm i
+```
 
 ### Executing program
-
-* npm run start:dev
-
 ```
-code blocks for commands
+npm run start:dev
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 Nishant Argade
 
-ex. [@NishantArgade](https://www.linkedin.com/in/nishant-argade-9058ab1a5)
+[@NishantArgade LinkedIn Profile ](https://www.linkedin.com/in/nishant-argade-9058ab1a5)
 
 ## License
 MIT
